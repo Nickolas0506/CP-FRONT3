@@ -63,7 +63,6 @@ const HomePage: React.FC = () => {
                 onChange={handleSearchChange}
                 className="search-input"
               />
-              <div className="search-icon">🔍</div>
             </div>
           </div>
 
