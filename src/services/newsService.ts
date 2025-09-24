@@ -60,6 +60,66 @@ const mockNews: News[] = [
       { id: 9, nome: "Marcos Souza", texto: "O e-commerce revolucionou o comércio." },
       { id: 10, nome: "Patricia Mendes", texto: "Excelente oportunidade." }
     ]
+  },
+  {
+    id: 6,
+    titulo: "Energia solar se populariza",
+    data: "2024-01-10",
+    conteudo: "Painéis solares ficam mais baratos. Famílias investem em energia limpa.",
+    imagem: "https://picsum.photos/400/250?random=6",
+    categorias: ["Energia"],
+    comentarios: [
+      { id: 11, nome: "Diego Santos", texto: "Ótima notícia para o meio ambiente!" },
+      { id: 12, nome: "Camila Torres", texto: "Já estou pensando em instalar." }
+    ]
+  },
+  {
+    id: 7,
+    titulo: "IA ajuda médicos no diagnóstico",
+    data: "2024-01-09",
+    conteudo: "Inteligência artificial auxilia profissionais da saúde. Diagnósticos ficam mais precisos.",
+    imagem: "https://picsum.photos/400/250?random=7",
+    categorias: ["Saúde"],
+    comentarios: [
+      { id: 13, nome: "Dr. Antonio Silva", texto: "A IA será fundamental na medicina." },
+      { id: 14, nome: "Juliana Costa", texto: "Espero que melhore o atendimento." }
+    ]
+  },
+  {
+    id: 8,
+    titulo: "Bicicletas compartilhadas crescem",
+    data: "2024-01-08",
+    conteudo: "Cidades investem em mobilidade sustentável. Bicicletas públicas se popularizam.",
+    imagem: "https://picsum.photos/400/250?random=8",
+    categorias: ["Mobilidade"],
+    comentarios: [
+      { id: 15, nome: "Rafael Oliveira", texto: "Precisamos de mais iniciativas assim." },
+      { id: 16, nome: "Beatriz Lima", texto: "Adoro usar as bicicletas compartilhadas!" }
+    ]
+  },
+  {
+    id: 9,
+    titulo: "Blockchain muda finanças",
+    data: "2024-01-07",
+    conteudo: "Bancos adotam tecnologia blockchain. Transações ficam mais seguras.",
+    imagem: "https://picsum.photos/400/250?random=9",
+    categorias: ["Finanças"],
+    comentarios: [
+      { id: 17, nome: "Gabriel Martins", texto: "Blockchain é o futuro!" },
+      { id: 18, nome: "Isabela Rocha", texto: "Interessante ver a evolução." }
+    ]
+  },
+  {
+    id: 10,
+    titulo: "Agricultura usa drones",
+    data: "2024-01-06",
+    conteudo: "Fazendeiros usam drones para monitorar plantações. Produtividade aumenta.",
+    imagem: "https://picsum.photos/400/250?random=10",
+    categorias: ["Agricultura"],
+    comentarios: [
+      { id: 19, nome: "José Ferreira", texto: "A tecnologia revoluciona o campo!" },
+      { id: 20, nome: "Mariana Alves", texto: "Ótimo para sustentabilidade." }
+    ]
   }
 ];
 
