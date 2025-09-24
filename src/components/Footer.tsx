@@ -8,9 +8,9 @@ const Footer: React.FC = () => {
         <div className="footer-content">
           <div className="team-info">
             <h4>Desenvolvido por:</h4>
-            <p><strong>Nome Completo 1</strong> - RM: 123456789</p>
-            <p><strong>Nome Completo 2</strong> - RM: 987654321</p>
-            <p><strong>Nome Completo 3</strong> - RM: 456789123</p>
+            <p><strong>Rafael Malaguti</strong> - RM: 561830</p>
+            <p><strong>Nickolas Davi</strong> - RM: 564105</p>
+            <p><strong>Samara Vilela</strong> - RM: 566133</p>
           </div>
         </div>
       </div>
