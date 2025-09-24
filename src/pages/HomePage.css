@@ -5,9 +5,9 @@
 }
 
 .page-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-color: #007bff;
   color: white;
-  padding: 3rem 0;
+  padding: 2rem 0;
   text-align: center;
 }
 
@@ -18,10 +18,9 @@
 }
 
 .page-title {
-  font-size: 3rem;
-  font-weight: 700;
+  font-size: 2.5rem;
+  font-weight: 600;
   margin: 0 0 0.5rem 0;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .page-subtitle {
@@ -58,8 +57,8 @@
 
 .search-input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
 }
 
 .search-icon {
@@ -95,8 +94,8 @@
 }
 
 .news-count {
-  background-color: #e3f2fd;
-  color: #1976d2;
+  background-color: #e7f3ff;
+  color: #007bff;
   padding: 0.5rem 1rem;
   border-radius: 20px;
   font-weight: 500;
@@ -135,7 +134,7 @@
 }
 
 .clear-search-btn {
-  background-color: #667eea;
+  background-color: #007bff;
   color: white;
   border: none;
   padding: 0.75rem 1.5rem;
@@ -147,7 +146,7 @@
 }
 
 .clear-search-btn:hover {
-  background-color: #5a6fd8;
+  background-color: #0056b3;
 }
 
 .loading-container {
@@ -163,7 +162,7 @@
   width: 40px;
   height: 40px;
   border: 4px solid #f3f3f3;
-  border-top: 4px solid #667eea;
+  border-top: 4px solid #007bff;
   border-radius: 50%;
   animation: spin 1s linear infinite;
   margin-bottom: 1rem;
